@@ -14,7 +14,7 @@
 
 ---
 
-<p align="center"> Learn the skills to build and grow diverse technology communities on campus with training, mentorship, and support from GitHub.
+<p align="center"> Link del sitio web: https://green-plant-0d6a84710.azurestaticapps.net/
     <br> 
 </p>
 
